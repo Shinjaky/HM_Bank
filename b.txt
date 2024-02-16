@@ -1,2 +1,0 @@
-the second test for git
-after changes how git log will be
