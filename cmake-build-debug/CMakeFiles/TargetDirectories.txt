@@ -1,0 +1,4 @@
+E:/Majority/CLion/HM_Projects/Bank_5/cmake-build-debug/CMakeFiles/HM_Projects.dir
+E:/Majority/CLion/HM_Projects/Bank_5/cmake-build-debug/CMakeFiles/test.dir
+E:/Majority/CLion/HM_Projects/Bank_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Majority/CLion/HM_Projects/Bank_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
